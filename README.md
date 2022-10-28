@@ -1,6 +1,6 @@
-# networks
+# Networks
 
-This repository contains the networks as required by the NNUE evaluation in Stockfish:
+This repository contains the deep neural networks as required by the NNUE evaluation in Stockfish:
 
 https://github.com/official-stockfish/Stockfish/
 
